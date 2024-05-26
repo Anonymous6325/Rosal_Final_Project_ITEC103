@@ -1,0 +1,78 @@
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\bin\Debug\ITEC 103 ROSAL & MAKASAYAN.exe.config
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\bin\Debug\ITEC 103 ROSAL & MAKASAYAN.exe
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\bin\Debug\ITEC 103 ROSAL & MAKASAYAN.pdb
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC 103 ROSAL & MAKASAYAN.csproj.AssemblyReference.cache
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Menu.resources
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Properties.Resources.resources
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Sub_Menu.resources
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC 103 ROSAL & MAKASAYAN.csproj.GenerateResource.cache
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC 103 ROSAL & MAKASAYAN.csproj.CoreCompileInputs.cache
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC 103 ROSAL & MAKASAYAN.exe
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC 103 ROSAL & MAKASAYAN.pdb
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.UserControl1.resources
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.UserControl2.resources
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.UserControl3.resources
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Robo.resources
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Memorycs.resources
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Mind_Testcs.resources
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\bin\Debug\ITEC 103 ROSAL & MAKASAYAN.exe.config
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\bin\Debug\ITEC 103 ROSAL & MAKASAYAN.exe
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\bin\Debug\ITEC 103 ROSAL & MAKASAYAN.pdb
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC 103 ROSAL & MAKASAYAN.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Menu.resources
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Memorycs.resources
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Mind_Testcs.resources
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Properties.Resources.resources
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Robo.resources
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Sub_Menu.resources
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.UserControl1.resources
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.UserControl2.resources
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.UserControl3.resources
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC 103 ROSAL & MAKASAYAN.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC 103 ROSAL & MAKASAYAN.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC 103 ROSAL & MAKASAYAN.exe
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC 103 ROSAL & MAKASAYAN.pdb
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Difficult.resources
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Easy.resources
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Moderate.resources
+C:\Users\Administrator\Downloads\ITEC 103 ROSAL & MAKASAYAN (2) (1)\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Loading.resources
+C:\Users\Mark Angelo\Downloads\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\bin\Debug\ITEC 103 ROSAL & MAKASAYAN.exe.config
+C:\Users\Mark Angelo\Downloads\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\bin\Debug\ITEC 103 ROSAL & MAKASAYAN.exe
+C:\Users\Mark Angelo\Downloads\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\bin\Debug\ITEC 103 ROSAL & MAKASAYAN.pdb
+C:\Users\Mark Angelo\Downloads\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC 103 ROSAL & MAKASAYAN.csproj.AssemblyReference.cache
+C:\Users\Mark Angelo\Downloads\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Difficult.resources
+C:\Users\Mark Angelo\Downloads\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Easy.resources
+C:\Users\Mark Angelo\Downloads\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Menu.resources
+C:\Users\Mark Angelo\Downloads\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Loading.resources
+C:\Users\Mark Angelo\Downloads\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Loadingmt.resources
+C:\Users\Mark Angelo\Downloads\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Mind_Testcs.resources
+C:\Users\Mark Angelo\Downloads\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Moderate.resources
+C:\Users\Mark Angelo\Downloads\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Properties.Resources.resources
+C:\Users\Mark Angelo\Downloads\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Robo.resources
+C:\Users\Mark Angelo\Downloads\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Sub_Menu.resources
+C:\Users\Mark Angelo\Downloads\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.UserControl1.resources
+C:\Users\Mark Angelo\Downloads\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.UserControl2.resources
+C:\Users\Mark Angelo\Downloads\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC 103 ROSAL & MAKASAYAN.csproj.GenerateResource.cache
+C:\Users\Mark Angelo\Downloads\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC 103 ROSAL & MAKASAYAN.csproj.CoreCompileInputs.cache
+C:\Users\Mark Angelo\Downloads\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC 103 ROSAL & MAKASAYAN.exe
+C:\Users\Mark Angelo\Downloads\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC 103 ROSAL & MAKASAYAN.pdb
+C:\Users\Mark Angelo\Downloads\without memory\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\bin\Debug\ITEC 103 ROSAL & MAKASAYAN.exe.config
+C:\Users\Mark Angelo\Downloads\without memory\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\bin\Debug\ITEC 103 ROSAL & MAKASAYAN.exe
+C:\Users\Mark Angelo\Downloads\without memory\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\bin\Debug\ITEC 103 ROSAL & MAKASAYAN.pdb
+C:\Users\Mark Angelo\Downloads\without memory\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC 103 ROSAL & MAKASAYAN.csproj.AssemblyReference.cache
+C:\Users\Mark Angelo\Downloads\without memory\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Difficult.resources
+C:\Users\Mark Angelo\Downloads\without memory\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Easy.resources
+C:\Users\Mark Angelo\Downloads\without memory\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Menu.resources
+C:\Users\Mark Angelo\Downloads\without memory\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Loading.resources
+C:\Users\Mark Angelo\Downloads\without memory\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Loadingmt.resources
+C:\Users\Mark Angelo\Downloads\without memory\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Mind_Testcs.resources
+C:\Users\Mark Angelo\Downloads\without memory\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Moderate.resources
+C:\Users\Mark Angelo\Downloads\without memory\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Properties.Resources.resources
+C:\Users\Mark Angelo\Downloads\without memory\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Robo.resources
+C:\Users\Mark Angelo\Downloads\without memory\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.Sub_Menu.resources
+C:\Users\Mark Angelo\Downloads\without memory\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.UserControl1.resources
+C:\Users\Mark Angelo\Downloads\without memory\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC_103_ROSAL___MAKASAYAN.UserControl2.resources
+C:\Users\Mark Angelo\Downloads\without memory\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC 103 ROSAL & MAKASAYAN.csproj.GenerateResource.cache
+C:\Users\Mark Angelo\Downloads\without memory\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC 103 ROSAL & MAKASAYAN.csproj.CoreCompileInputs.cache
+C:\Users\Mark Angelo\Downloads\without memory\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC 103 ROSAL & MAKASAYAN.exe
+C:\Users\Mark Angelo\Downloads\without memory\ITEC 103 ROSAL & MAKASAYAN\ITEC 103 ROSAL & MAKASAYAN\obj\Debug\ITEC 103 ROSAL & MAKASAYAN.pdb
